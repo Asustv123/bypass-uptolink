@@ -2,7 +2,7 @@
   'use strict';
 
   // ====== Cấu hình NekoVCheat ======
-  const API_BASE = 'https://nekovcheat.io';
+  const API_BASE = 'https://vanhcheat.rf.gd/';
   const CONFIG_URL = API_BASE + '/link.json';
   const SAVE_URL = API_BASE + '/api.php?action=save';
 
